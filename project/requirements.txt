@@ -1,0 +1,4 @@
+The program requires the following things to run:
+1.Python3
+2.stegano(python library for steganography)
+
