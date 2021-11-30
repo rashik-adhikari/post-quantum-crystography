@@ -5,7 +5,9 @@ This is a modification to Newhope post quantum algorithm. The keys of the algori
 Further, steganography is combined to the algorithm to provide additional security. 
 
 Requirements:
+
 1.Python3
+
 2.stegano(python library for steganography)
 
 To execute run the following:
